@@ -7,8 +7,8 @@ Tkinter: Tkinter powers the GUI (graphical user interface), providing widgets an
 Math: The floor function from the math module is used to round down values in the timer display for clear minute and second formatting.
 2. Design & UI Setup
 I set up color constants to keep the app visually consistent:
-Background color: Purple
-Text colors: Gold for the timer display and Blue for labels and buttons.
+Background color: Orange
+Text colors: Gray for the timer display and Red for labels and buttons.
 Font Style: I used a bold Courier font to make the countdown display and labels readable and visually appealing.
 3. UI Layout
 Canvas: The canvas displays the countdown timer text in the center of a stopwatch image, giving it a classic timer look.
